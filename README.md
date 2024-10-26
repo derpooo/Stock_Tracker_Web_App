@@ -82,10 +82,6 @@ The dependencies are listed in the requirements.txt file. To install them, simpl
 - `Matplotlib`: For plotting stock price charts.
 - `yfinance`: To fetch historical stock price data.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Future Features
 
 - Integration of technical indicators like RSI and Bollinger Bands.
